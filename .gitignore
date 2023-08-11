@@ -23,3 +23,6 @@ testcmd/
 go.sum
 .DS_Store
 dist/
+
+.idea/
+
